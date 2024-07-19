@@ -1,0 +1,1 @@
+This can be thought of as a list of lists or a list containing pointers to other lists in memory
